@@ -3,42 +3,42 @@
         "id": "01",
         "name": "Acer Ultra pro max",
         "price": "44000",
-        "img": "https://www.globalbrandsmagazine.com/wp-content/uploads/2013/10/Acer-Swift-5-SF514-54-White_preview.png",
+        "img": "https://images.unsplash.com/photo-1580522154071-c6ca47a859ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGxhcHRvcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "company": "Acer"
     },
     {
         "id": "02",
         "name": "Dell Super laptop",
         "price": "40000",
-        "img": "https://img.freepik.com/free-photo/laptop-wooden-table_53876-20635.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
+        "img": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODF8fGxhcHRvcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "company": "Dell"
     },
     {
         "id": "03",
-        "name": "Lenovo Super Quality laptop",
+        "name": "Lenovo Super Quality",
         "price": "48000",
-        "img": "https://img.freepik.com/free-psd/office-desk-concept-with-mock-up_23-2148692407.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
+        "img": "https://images.unsplash.com/photo-1555117391-6c0795768da8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGxhcHRvcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "company": "Lenovo"
     },
     {
         "id": "04",
-        "name": "Hewlett-Packard super laptop",
+        "name": "Hewlett-Packard laptop",
         "price": "50000",
-        "img": "https://www.globalbrandsmagazine.com/wp-content/uploads/2019/05/HP-Launches-Worlds-First-Dual%E2%80%90Screen-Gaming-Laptop.jpg",
+        "img": "https://images.unsplash.com/photo-1584433305355-9cb73387fc61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGxhcHRvcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "company": "HP"
     },
     {
         "id": "05",
         "name": "Apple Pro Super Laptop",
         "price": "54000",
-        "img": "https://www.globalbrandsmagazine.com/wp-content/uploads/2019/05/Apple-Introduces-First-8-core-MacBook-Pro.jpg",
+        "img": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bGFwdG9wc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "company": "Apple"
     },
     {
         "id": "06",
         "name": "MSI laptop for gaming",
         "price": "30000",
-        "img": "https://www.globalbrandsmagazine.com/wp-content/uploads/2013/10/MSI-Laptop-e1599291863785.png",
+        "img": "https://images.unsplash.com/photo-1558864559-ed673ba3610b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGxhcHRvcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "company": "MSI"
     },
     {
@@ -71,14 +71,14 @@
     },
     {
         "id": "11",
-        "name": "Gigabyte Aorus pro laptop",
+        "name": "Gigabyte Aorus laptop",
         "price": "27000",
         "img": "https://img.freepik.com/free-photo/business-presentation-laptop-screen_53876-13516.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
         "company": "Gigabyte"
     },
     {
         "id": "12",
-        "name": "Panasonic Toughpad laptop",
+        "name": "Panasonic laptop",
         "price": "30000",
         "img": "https://img.freepik.com/free-photo/open-laptop_144627-12148.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
         "company": "Panasonic"

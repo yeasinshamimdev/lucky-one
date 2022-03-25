@@ -1,0 +1,29 @@
+.product-container{
+    background-color: rgba(102, 100, 100, 0.109);
+    box-shadow: 10px 10px 40px rgba(255, 255, 255, 0.719);
+    border-radius: 6px;
+}
+.card-img-section{
+    padding: 5px;
+    
+}
+.card-img-section img{
+    width: 100%;
+    min-height :190px;
+    border-radius: 6px 6px 0px 0px;
+}
+.card-info{
+    padding-left: 8px;
+}
+.card-info h4{
+    font-weight: 400;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.card-info p{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    font-weight: 300;
+}
