@@ -1,0 +1,86 @@
+[
+    {
+        "id": "01",
+        "name": "Acer Ultra pro max",
+        "price": "44000",
+        "img": "https://www.globalbrandsmagazine.com/wp-content/uploads/2013/10/Acer-Swift-5-SF514-54-White_preview.png",
+        "company": "Acer"
+    },
+    {
+        "id": "02",
+        "name": "Dell Super laptop",
+        "price": "40000",
+        "img": "https://img.freepik.com/free-photo/laptop-wooden-table_53876-20635.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
+        "company": "Dell"
+    },
+    {
+        "id": "03",
+        "name": "Lenovo Super Quality laptop",
+        "price": "48000",
+        "img": "https://img.freepik.com/free-psd/office-desk-concept-with-mock-up_23-2148692407.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
+        "company": "Lenovo"
+    },
+    {
+        "id": "04",
+        "name": "Hewlett-Packard super laptop",
+        "price": "50000",
+        "img": "https://www.globalbrandsmagazine.com/wp-content/uploads/2019/05/HP-Launches-Worlds-First-Dual%E2%80%90Screen-Gaming-Laptop.jpg",
+        "company": "HP"
+    },
+    {
+        "id": "05",
+        "name": "Apple Pro Super Laptop",
+        "price": "54000",
+        "img": "https://www.globalbrandsmagazine.com/wp-content/uploads/2019/05/Apple-Introduces-First-8-core-MacBook-Pro.jpg",
+        "company": "Apple"
+    },
+    {
+        "id": "06",
+        "name": "MSI laptop for gaming",
+        "price": "30000",
+        "img": "https://www.globalbrandsmagazine.com/wp-content/uploads/2013/10/MSI-Laptop-e1599291863785.png",
+        "company": "MSI"
+    },
+    {
+        "id": "07",
+        "name": "ASUS ZenBook 13",
+        "price": "40000",
+        "img": "https://www.globalbrandsmagazine.com/wp-content/uploads/2013/10/Asus-Laptop.png",
+        "company": "Asus"
+    },
+    {
+        "id": "08",
+        "name": "Microsoft surface pro 6",
+        "price": "38000",
+        "img": "https://img.freepik.com/free-photo/business-technology-communication-concept-minimalistic-workspace-with-modern-laptop-computer-with-white-blank-screen_273609-1702.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
+        "company": "Microsoft"
+    },
+    {
+        "id": "09",
+        "name": "Razer pro max",
+        "price": "32000",
+        "img": "https://img.freepik.com/free-photo/laptop-with-white-screen-isolated-white-wall_231208-8594.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
+        "company": "Razer"
+    },
+    {
+        "id": "10",
+        "name": "ATIV Book 9 Pro",
+        "price": "28000",
+        "img": "https://www.globalbrandsmagazine.com/wp-content/uploads/2013/10/Samsung-Galaxy-Book-Flex-and-Galaxy-Book-min.png",
+        "company": "Samsung"
+    },
+    {
+        "id": "11",
+        "name": "Gigabyte Aorus pro laptop",
+        "price": "27000",
+        "img": "https://img.freepik.com/free-photo/business-presentation-laptop-screen_53876-13516.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
+        "company": "Gigabyte"
+    },
+    {
+        "id": "12",
+        "name": "Panasonic Toughpad laptop",
+        "price": "30000",
+        "img": "https://img.freepik.com/free-photo/open-laptop_144627-12148.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
+        "company": "Panasonic"
+    }
+]
