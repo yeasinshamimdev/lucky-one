@@ -27,3 +27,24 @@
     margin-bottom: 0px;
     font-weight: 300;
 }
+.add-to-cart-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(99, 247, 80, 0.589);
+    margin-top: 10px;
+    padding: 0;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 0px 0px 6px 6px;
+    color: rgba(171, 11, 245, 0.993);
+}
+.add-to-cart-btn:hover{
+    background-color: rgba(69, 247, 45, 0.829);
+}
+.add-to-cart-btn p{
+    font-weight: 700;
+    font-size: 14px;
+    margin-right: 5px;
+}
