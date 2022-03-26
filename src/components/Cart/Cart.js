@@ -2,8 +2,7 @@ import React from 'react';
 import './Cart.css';
 import SingleProduct from './SingleProduct/SingleProduct';
 
-const Cart = ({ cart, removeFormCart }) => {
-    console.log(cart);
+const Cart = ({ cart, removeFormCart, selectOneFormCart, resetBtn }) => {
 
     return (
         <div className='cart-container-div'>
@@ -17,8 +16,8 @@ const Cart = ({ cart, removeFormCart }) => {
                 </div>
 
                 <div className='cart-btn-div'>
-                    <button className='select-for-me-btn'>Select 1 for me</button>
-                    <button>Reset</button>
+                    <button onClick={selectOneFormCart} className='select-for-me-btn'>Select 1 For You</button>
+                    <button onClick={resetBtn}>Reset</button>
                 </div>
             </div>
         </div>

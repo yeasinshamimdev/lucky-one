@@ -34,7 +34,29 @@ const Shop = () => {
     const removeFormCart = (singleID) => {
         const removedItems = cart.filter(removedItem => removedItem.id !== singleID.id);
         setCart(removedItems);
-        console.log(removedItems);
+    }
+
+    const selectOneFormCart = () => {
+        const randomNumber = Math.ceil(Math.random() * 12);
+        const cartProductId = cart.find(productId => parseInt(productId.id) === randomNumber);
+        console.log(cartProductId?.name);
+
+
+        if (cart.length === 0) {
+            alert('Please Select any product. And than click on this button!!!')
+        }
+        else {
+            if (!cartProductId) {
+                alert('Bad lack!! Your random number don not match with any product!!')
+            }
+            else {
+                alert('You Select ' + cartProductId?.name);
+            }
+        }
+    }
+
+    const resetBtn = () => {
+        setCart([]);
     }
 
     return (
@@ -45,7 +67,7 @@ const Shop = () => {
                 }
             </div>
             <div className="cart-container">
-                <Cart cart={cart} removeFormCart={removeFormCart} />
+                <Cart cart={cart} removeFormCart={removeFormCart} selectOneFormCart={selectOneFormCart} resetBtn={resetBtn} />
             </div>
         </div>
     );

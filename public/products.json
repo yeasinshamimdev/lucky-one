@@ -1,62 +1,62 @@
 [
     {
-        "id": "01",
+        "id": "1",
         "name": "Acer Ultra pro max",
         "price": "44000",
         "img": "https://images.unsplash.com/photo-1580522154071-c6ca47a859ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGxhcHRvcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "company": "Acer"
     },
     {
-        "id": "02",
+        "id": "2",
         "name": "Dell Super laptop",
         "price": "40000",
         "img": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODF8fGxhcHRvcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "company": "Dell"
     },
     {
-        "id": "03",
+        "id": "3",
         "name": "Lenovo Super Quality",
         "price": "48000",
         "img": "https://images.unsplash.com/photo-1555117391-6c0795768da8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGxhcHRvcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "company": "Lenovo"
     },
     {
-        "id": "04",
+        "id": "4",
         "name": "Hewlett-Packard laptop",
         "price": "50000",
         "img": "https://images.unsplash.com/photo-1584433305355-9cb73387fc61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGxhcHRvcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "company": "HP"
     },
     {
-        "id": "05",
+        "id": "5",
         "name": "Apple Pro Super Laptop",
         "price": "54000",
         "img": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bGFwdG9wc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "company": "Apple"
     },
     {
-        "id": "06",
+        "id": "6",
         "name": "MSI laptop for gaming",
         "price": "30000",
         "img": "https://images.unsplash.com/photo-1558864559-ed673ba3610b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGxhcHRvcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "company": "MSI"
     },
     {
-        "id": "07",
+        "id": "7",
         "name": "ASUS ZenBook 13",
         "price": "40000",
         "img": "https://www.globalbrandsmagazine.com/wp-content/uploads/2013/10/Asus-Laptop.png",
         "company": "Asus"
     },
     {
-        "id": "08",
+        "id": "8",
         "name": "Microsoft surface pro 6",
         "price": "38000",
         "img": "https://img.freepik.com/free-photo/business-technology-communication-concept-minimalistic-workspace-with-modern-laptop-computer-with-white-blank-screen_273609-1702.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
         "company": "Microsoft"
     },
     {
-        "id": "09",
+        "id": "9",
         "name": "Razer pro max",
         "price": "32000",
         "img": "https://img.freepik.com/free-photo/laptop-with-white-screen-isolated-white-wall_231208-8594.jpg?size=626&ext=jpg&uid=R67487391&ga=GA1.2.947909041.1647836341",
