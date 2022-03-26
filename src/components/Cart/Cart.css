@@ -14,15 +14,16 @@
     text-align: center;
     margin: 8px 0px 15px 0px;
     color: rgb(81, 11, 245);
-    
 }
+
+
 .cart-btn-div{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-.cart-content button{
+.cart-btn-div button{
     width: 50%;
     border: none;
     padding: 8px 20px;
@@ -34,7 +35,7 @@
     border-radius: 5px;
     background-color: rgba(41, 238, 123, 0.979);
 }
-.cart-content button:hover{
+.cart-btn-div button:hover{
     background-color: rgba(0, 246, 123, 0.822);
 }
 
@@ -51,7 +52,7 @@
         width: 100%;
     }
     
-    .cart-content button{
+    .cart-btn-div button{
         border: none;
         font-size: 10px;
         font-weight: 300;

@@ -5,14 +5,36 @@ import './Shop.css';
 
 const Shop = () => {
     const [products, setProducts] = useState([]);
+    const [cart, setCart] = useState([]);
+
     useEffect(() => {
         fetch('products.json')
             .then(res => res.json())
             .then(data => setProducts(data));
     }, []);
 
-    const addToCart = (productID) => {
-        console.log('clicked', productID);
+
+    const addToCart = (singleProduct) => {
+        if (cart.length <= 3) {
+            const totalCart = cart?.find(singleCart => singleCart.id === singleProduct.id);
+            if (!totalCart) {
+                const cartProduct = products.find(product => product.id === singleProduct.id);
+                const totalCartProduct = [...cart, cartProduct];
+                setCart(totalCartProduct);
+            }
+            else {
+                alert('Sorry, You can not add a product multi time!!!')
+            }
+        }
+        else {
+            alert('Sorry! You can not add more than four products!!');
+        }
+    }
+
+    const removeFormCart = (singleID) => {
+        const removedItems = cart.filter(removedItem => removedItem.id !== singleID.id);
+        setCart(removedItems);
+        console.log(removedItems);
     }
 
     return (
@@ -23,7 +45,7 @@ const Shop = () => {
                 }
             </div>
             <div className="cart-container">
-                <Cart />
+                <Cart cart={cart} removeFormCart={removeFormCart} />
             </div>
         </div>
     );

@@ -1,0 +1,29 @@
+.single-product-container{
+    width: 100%;
+}
+.single-product-content{
+    display: flex;
+    margin-bottom: 10px;
+}
+.single-product-content img{
+    width: 20%;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.single-product-content h4{
+    margin-right: 10px;
+}
+.single-product-remove{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.single-product-remove button{
+    border-radius: 30%;
+    border: none;
+    background-color: rgba(29, 85, 241, 0.205);
+    color: rgba(255, 0, 0, 0.726);
+    height: 30%;
+    font-size: 18px;
+    cursor: pointer;
+}

@@ -15,7 +15,7 @@ const Header = () => {
                 </div>
             </div>
             <div className='header-info'>
-                <h1>Welcome To My Laptop Mart</h1>
+                <h1>Welcome To Laptop Mart</h1>
                 <h2>You Can't Add Product More Than Four!</h2>
             </div>
             <hr />
